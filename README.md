@@ -1,3 +1,3 @@
-# -bung1Softwaretechnik
+# Uebung1Softwaretechnik
 
 Maximilian Kaiser
